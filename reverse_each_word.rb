@@ -11,4 +11,3 @@ def reverse_each_word(string)
 p new_array_3
 end
   
-end 
