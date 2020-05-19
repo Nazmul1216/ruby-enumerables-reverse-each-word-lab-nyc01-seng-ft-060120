@@ -8,7 +8,6 @@ def reverse_each_word(string)
     new_array_2.push(string.reverse)
   end
   new_array_2.join(" ")
-end 
 p new_array_3
 end
   
