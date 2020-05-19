@@ -9,5 +9,6 @@ def reverse_each_word(string)
   end
   new_array_2.join(" ")
 p new_array_3
+new_array_3.collect do|
 end
   
