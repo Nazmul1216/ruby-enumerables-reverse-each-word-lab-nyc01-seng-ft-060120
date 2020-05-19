@@ -8,6 +8,7 @@ def reverse_each_word(string)
 end
 new_array_2 
 new_array_2.to_s
+
   
     
 end 
